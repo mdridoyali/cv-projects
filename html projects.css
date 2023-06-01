@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #f9f1f1;
+  font-family: 
+}
+
+#container{
+    max-width: 1000px;
+    background-color: rgb(226, 248, 255);
+    margin: 0 auto;
+    padding: 20px;
+}
+.img-profile{
+    width: 150px;
+    border: 3px solid white;
+    border-radius: 80%;
+    float: left;
+    
+}
+.header-bio{
+    float: left;
+    padding: 20px;
+}
+h1, h2, h3, h4, h5, h6{
+    color: #11999e;
+}
+.header-contact{
+    float: right;
+    padding: 25px;
+   
+}
+.header-contact a{
+    text-decoration: none;
+    color: rgb(22, 155, 155);
+    font-weight: bold;
+}
+.header-contact a:hover{
+    text-decoration: underline;
+    color: tomato;
+
+}
+.div-clear{
+    clear: both ;
+}
+hr{
+    border: 3px solid black;
+    width: 100%;
+    margin: 20px  auto;
+    border-bottom: none;
+    margin-bottom: 20px;
+}
+/*--personal information start--*/
+
+.left-div{
+    float: left;
+    width: 30%;
+}
+.right-div{
+    float: right;
+    width: 70%;
+   
+}
+.conten{
+    margin: 30px;
+}
+.common-hr{
+    border: 2px solid black;
+    border-bottom: none;
+    margin:  auto;
+    margin-top: 20px;
+
+}
+
+/*--personal information end--*/
+
+
+/*--work section start--*/
+.work-section{
+    margin-top: 30px;
+    padding-top: 30px;
+}
+.conten2{
+    margin-top: 30px;
+    padding-top: 30px;
+}
+.left-div h3{
+    
+}
+
+
+.edu-template-right{
+    float: left;
+    width: 45%;
+}
+
+.edu-template-left{
+    float: right;
+    width: 45%;
+}
+.footer-aria{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px;
+}
+.footer-aria a{
+    
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    text-decoration: none;
+}
